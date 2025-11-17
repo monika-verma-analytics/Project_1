@@ -20,8 +20,6 @@ Link: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 ---
 
 ## 📁 **2. Folder Structure**
-UAE_Ecommerce_EDA_Project/
-│
 ├── dataset/
 │ ├── raw/retail_data.csv
 │ └── cleaned/retail_data_cleaned.xlsx
